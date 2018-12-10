@@ -563,3 +563,7 @@ h5 {
     background-size: auto 100%;
   }
 }
+
+.name-header {
+    margin-top: 15px;
+}
